@@ -1,5 +1,3 @@
-# N_Dragon
-
 # Chức năng :
  * Nhấn nút 1 lần để chạy file 1.
  * Nhấn nút 2 lần để chạy file 2. (tất cả các file được lưu trong bộ nhớ của ESP32 S3)
